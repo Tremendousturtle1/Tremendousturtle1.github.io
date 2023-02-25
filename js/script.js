@@ -1,11 +1,11 @@
 const myImages = [
     {
-        src: "/images/suits.jpg",
+        src: "/Images/suits.jpg",
         description: "two kids in suits.",
         alt: "caterpillar"
     },
     {
-        src: "/images/kayack.jpg",
+        src: "/Images/kayack.jpg",
         description: "Two kids in a kayack.",
         alt: "chipmunk"
     },
